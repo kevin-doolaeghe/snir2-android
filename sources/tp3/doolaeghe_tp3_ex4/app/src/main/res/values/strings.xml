@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TP 3 / Exercice 4 - Doolaeghe Kevin</string>
+    <string name="modifier">Modifier</string>
+    <string name="valid">Valider</string>
+
+    <string name="hint_nom">Nom</string>
+    <string name="hint_prenom">Prénom</string>
+    <string name="hint_tel">N° de téléphone</string>
+    <string name="hint_num">Numéro</string>
+    <string name="hint_rue">Rue</string>
+    <string name="hint_codePos">Code postal</string>
+    <string name="hint_ville">Ville</string>
+
+    <string name="def_nom">Briaz</string>
+    <string name="def_prenom">José</string>
+    <string name="def_tel">0791546838</string>
+    <string name="def_num">12</string>
+    <string name="def_rue">Rue de Cohem</string>
+    <string name="def_codePost">59390</string>
+    <string name="def_ville">Lys Lez Lannoy</string>
+</resources>

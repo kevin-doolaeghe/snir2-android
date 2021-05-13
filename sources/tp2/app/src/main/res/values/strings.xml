@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="app_copyright">Copyright Doolaeghe 2018/2019</string>
+    <string name="add">Addition</string>
+    <string name="substract">Soustraction</string>
+    <string name="multiply">Multiplication</string>
+    <string name="divide">Division</string>
+    <string name="result">Résultat :</string>
+    <string name="hint">Entrer une valeur</string>
+    <string name="equals">=</string>
+    <string name="reset">RAZ</string>
+    <string name="leave">Quitter</string>
+</resources>

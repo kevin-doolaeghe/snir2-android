@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercice 3</string>
+    <string name="textView_exerciseTitle_text">Exercice 3</string>
+    <string name="textView_currentValueTitle_text">Valeur courante :</string>
+    <string name="editText_currentValue_hint">Texte à saisir</string>
+    <string name="button_edit_text">Modifier</string>
+    <string name="textView_valueRecievedTitle_text">Modification proposée</string>
+    <string name="button_validate_text">Valider</string>
+    <string name="textView_textToEdit_text">Aucun texte</string>
+    <string name="button_uppercase_text">Majuscule</string>
+    <string name="button_invert_text">Inverser</string>
+</resources>

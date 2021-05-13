@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="app_copyright">Copyright Doolaeghe 2018/2019</string>
+    <string name="add">Addition</string>
+    <string name="substract">Substraction</string>
+    <string name="multiply">Multiplication</string>
+    <string name="divide">Division</string>
+    <string name="result">Result :</string>
+    <string name="hint">Enter a value</string>
+    <string name="equals">=</string>
+    <string name="reset">Reset</string>
+    <string name="leave">Leave</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">doolaeghe_tp4_ex1</string>
+    <string name="button_sms_text">SMS</string>
+    <string name="button_mms_text">MMS</string>
+    <string name="button_appel_text">Appel</string>
+    <string name="button_web_text">Web</string>
+    <string name="button_map_text">Map</string>
+</resources>

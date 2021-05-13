@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoolaegheTestIntent01</string>
+    <string name="editText_textToSend_hint">Texte à envoyer</string>
+    <string name="button_sendText_text">Envoyer</string>
+    <string name="textView_textRecieved_text">Rien reçu</string>
+    <string name="textView_title_text">Exercice 1</string>
+</resources>

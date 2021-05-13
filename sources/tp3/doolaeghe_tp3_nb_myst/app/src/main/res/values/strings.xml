@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jeu du nombre mystérieux</string>
+
+    <string name="titre_jeu">Jeu du nombre mystérieux</string>
+    <string name="button_lancerJeu_text">Lancer le jeu</string>
+
+    <string name="textView_hint_text_inf">Trop petit !</string>
+    <string name="textView_hint_text_sup">Trop grand !</string>
+    <string name="editText_tentative_hint">1... 100</string>
+    <string name="button_validerVal_text">Valider</string>
+
+    <string name="congratulations">Félicitations !</string>
+    <string name="textView_valAlea_text">Nombre aléatoire :</string>
+    <string name="textView_nbTentatives_text">Tentative(s) :</string>
+    <string name="button_retourMenu_text">Retour au menu</string>
+</resources>

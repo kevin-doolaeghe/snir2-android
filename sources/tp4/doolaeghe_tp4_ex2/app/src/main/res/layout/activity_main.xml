@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editText_num"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/editText_num_hint"
+        android:textAlignment="center"
+        android:maxLength="10"
+        android:inputType="phone" />
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       android:orientation="horizontal">
+
+       <Button
+           android:id="@+id/button_sms"
+           android:text="@string/button_sms_text"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+       <Button
+           android:id="@+id/button_mms"
+           android:text="@string/button_mms_text"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+       <Button
+           android:id="@+id/button_appel"
+           android:text="@string/button_appel_text"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+   </LinearLayout>
+
+    <EditText
+        android:id="@+id/editText_url"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/editText_url_hint"
+        android:textAlignment="center"
+        android:inputType="textWebEmailAddress" />
+
+    <Button
+        android:id="@+id/button_web"
+        android:text="@string/button_web_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editText_geoLon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/editText_geoLon_hint"
+            android:textAlignment="center"
+            android:maxLength="5"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/editText_geoLat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/editText_geoLat_hint"
+            android:textAlignment="center"
+            android:maxLength="5"
+            android:inputType="numberDecimal" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_map"
+        android:text="@string/button_map_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

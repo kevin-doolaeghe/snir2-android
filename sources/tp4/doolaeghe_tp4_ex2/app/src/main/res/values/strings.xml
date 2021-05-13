@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">doolaeghe_tp4_ex2</string>
+    <string name="button_sms_text">SMS</string>
+    <string name="button_mms_text">MMS</string>
+    <string name="button_appel_text">Appel</string>
+    <string name="button_web_text">Web</string>
+    <string name="button_map_text">Map</string>
+    <string name="editText_num_hint">Numéro de téléphone</string>
+    <string name="editText_url_hint">URL</string>
+    <string name="editText_geoLon_hint">Longitude</string>
+    <string name="editText_geoLat_hint">Latitude</string>
+</resources>
